@@ -1,0 +1,5 @@
+Brioys GitHub-ready build
+
+Upload the CONTENTS of this folder to the ROOT of the GitHub repository.
+Do not upload the outer Brioys_GitHub_Ready folder itself.
+The repository root must contain index.html directly.
